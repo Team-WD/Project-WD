@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 7bd425dfb265c1c48adf9b37d20589a3
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - groundSkillPrefab: {fileID: 1455360315089542855, guid: 981c79ca96bbd0942bd3abb8025cb7ab, type: 3}
+  - skillEndEffectPrefab: {fileID: 5799441692070642935, guid: bc06407c89522bc44a13464219874431, type: 3}
+  - areaSkillPrefab: {fileID: 3231149150900121027, guid: 0a7d34efe9d5a0348be4a80d52055709, type: 3}
+  - explosionPrefab: {fileID: 4252960043437573166, guid: ef7d2c76cd94a0e4c91287fbabc7f07e, type: 3}
+  - audioSource: {instanceID: 0}
+  - throwSkillSound: {fileID: 8300000, guid: 5b39af5c494579f439d0661be4edc446, type: 3}
+  - groundSkillSound: {fileID: 8300000, guid: e9dbde83f1df79f41bfde31f55e55658, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

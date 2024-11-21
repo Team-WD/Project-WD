@@ -1,0 +1,10 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+<<<<<<< HEAD
+    <inspection_tool class="TrailingSpacesInProperty" enabled="true" level="WARNING" enabled_by_default="true" />
+=======
+    <inspection_tool class="JSUnreachableSwitchBranches" enabled="true" level="WARNING" enabled_by_default="true" />
+>>>>>>> 1f712fb6720da851e2175910946eb0d49602adc0
+  </profile>
+</component>

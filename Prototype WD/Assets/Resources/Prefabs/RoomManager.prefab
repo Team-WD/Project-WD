@@ -1,0 +1,90 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &6891980737140438183
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5015780882405665537}
+  - component: {fileID: 3490530135385272847}
+  - component: {fileID: 431572863690917542}
+  m_Layer: 0
+  m_Name: RoomManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5015780882405665537
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6891980737140438183}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 680.858, y: 507.2356, z: -1.1216416}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &3490530135385272847
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6891980737140438183}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 889a44bb3309ec249b7b09580fd71cc1, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  playerInfoUIPrefab: {fileID: 1536157429229251397, guid: f19b78b4978a8ad48bcfa2effe096aed, type: 3}
+  roomName: {fileID: 0}
+  gridParent: {fileID: 0}
+  startGameButton: {fileID: 0}
+  readyGameButton: {fileID: 0}
+  _PlayerCount: 0
+  gameSceneName: MultiGameScene2
+  loadingSceneName: LoadingScene
+  gameScenePath: Assets/Scenes/MultiGameScene2.unity
+  loadingScenePath: Assets/Scenes/LoadingScene.unity
+  characterSprites:
+  - {fileID: 1799338346, guid: 4a6a2893de8411144b8603ae7fbb1237, type: 3}
+  - {fileID: -556924404, guid: c6e4837e57887254ba512e80ea545aa9, type: 3}
+  - {fileID: 2033004861, guid: 1781777eb59e5044c89352b17d0bc3af, type: 3}
+  - {fileID: 938747898, guid: d94d7340c93418b44ae713b0b72b4962, type: 3}
+  - {fileID: 2071616030, guid: 1edbb73ab5d77fe44b67ce6fd142b076, type: 3}
+  weaponSprites:
+  - {fileID: -403290946, guid: 7c0935aa15dfe014682899a6ff57fed2, type: 3}
+  - {fileID: 2076535269, guid: 7c0935aa15dfe014682899a6ff57fed2, type: 3}
+  - {fileID: 787531326, guid: 7c0935aa15dfe014682899a6ff57fed2, type: 3}
+  - {fileID: -1255673792, guid: 7c0935aa15dfe014682899a6ff57fed2, type: 3}
+  - {fileID: -1278141026, guid: 7c0935aa15dfe014682899a6ff57fed2, type: 3}
+  - {fileID: 1967276543, guid: 7c0935aa15dfe014682899a6ff57fed2, type: 3}
+  - {fileID: -1998954931, guid: 3b0ee3aaf626904468c34845650fd456, type: 3}
+  - {fileID: 1737244436, guid: 7c0935aa15dfe014682899a6ff57fed2, type: 3}
+--- !u!114 &431572863690917542
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6891980737140438183}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1552182283, guid: e725a070cec140c4caffb81624c8c787, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  SortKey: 2387353309
+  ObjectInterest: 1
+  Flags: 262145
+  NestedObjects: []
+  NetworkedBehaviours:
+  - {fileID: 3490530135385272847}

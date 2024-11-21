@@ -1,0 +1,260 @@
+fileFormatVersion: 2
+guid: ddf9a2064f3b8e9429711449f5adf156
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Delivery_Truck_32x32_0
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 286
+        width: 114
+        height: 246
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4164f21dd9fcae8479f38b12d0c1a1fc
+      internalID: 2022121895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Delivery_Truck_32x32_1
+      rect:
+        serializedVersion: 2
+        x: 969
+        y: 286
+        width: 111
+        height: 250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e00f988ef09183d43aa63afd6e0ca908
+      internalID: -1482601368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Delivery_Truck_32x32_5
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 286
+        width: 250
+        height: 155
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3de280e848899e9429c70228b9fdba34
+      internalID: 1719367258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Delivery_Truck_32x32_6
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 286
+        width: 250
+        height: 155
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77313ca8e3f86d140a823abf6efb86fc
+      internalID: -773368389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Delivery_Truck_32x32_0: 2022121895
+      Delivery_Truck_32x32_1: -1482601368
+      Delivery_Truck_32x32_10: 2001330084
+      Delivery_Truck_32x32_11: 196792819
+      Delivery_Truck_32x32_12: 39827184
+      Delivery_Truck_32x32_13: -409775372
+      Delivery_Truck_32x32_14: 86144117
+      Delivery_Truck_32x32_15: 1963945602
+      Delivery_Truck_32x32_16: 740716005
+      Delivery_Truck_32x32_17: 799094319
+      Delivery_Truck_32x32_18: -1421339292
+      Delivery_Truck_32x32_19: 1848137590
+      Delivery_Truck_32x32_2: 143651683
+      Delivery_Truck_32x32_20: -1903709457
+      Delivery_Truck_32x32_21: 294955267
+      Delivery_Truck_32x32_22: -881959778
+      Delivery_Truck_32x32_23: 1992806863
+      Delivery_Truck_32x32_24: 1923043514
+      Delivery_Truck_32x32_25: 842097617
+      Delivery_Truck_32x32_26: 2005723552
+      Delivery_Truck_32x32_27: -333947668
+      Delivery_Truck_32x32_28: 1083257119
+      Delivery_Truck_32x32_29: 532411664
+      Delivery_Truck_32x32_3: -876563602
+      Delivery_Truck_32x32_30: 605002371
+      Delivery_Truck_32x32_31: 692534766
+      Delivery_Truck_32x32_32: 849864656
+      Delivery_Truck_32x32_33: -1274931191
+      Delivery_Truck_32x32_34: -326597026
+      Delivery_Truck_32x32_35: -1331745882
+      Delivery_Truck_32x32_36: -639085242
+      Delivery_Truck_32x32_37: 1875015382
+      Delivery_Truck_32x32_38: 1557827846
+      Delivery_Truck_32x32_39: -998064425
+      Delivery_Truck_32x32_4: -1046449665
+      Delivery_Truck_32x32_40: -1720488941
+      Delivery_Truck_32x32_41: 24593726
+      Delivery_Truck_32x32_42: -1392525037
+      Delivery_Truck_32x32_43: -541397228
+      Delivery_Truck_32x32_44: -1586719106
+      Delivery_Truck_32x32_45: 262181469
+      Delivery_Truck_32x32_46: 515867252
+      Delivery_Truck_32x32_47: 1051181982
+      Delivery_Truck_32x32_48: 1562894003
+      Delivery_Truck_32x32_5: 1719367258
+      Delivery_Truck_32x32_6: -773368389
+      Delivery_Truck_32x32_7: 680376101
+      Delivery_Truck_32x32_8: 1926602627
+      Delivery_Truck_32x32_9: -941325647
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

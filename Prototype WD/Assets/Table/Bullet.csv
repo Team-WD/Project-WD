@@ -1,0 +1,3 @@
+id,name,damageMultiplier,shootSpeed
+1,normal_bullet,1,1
+2,freeze_bullet,0.9,1

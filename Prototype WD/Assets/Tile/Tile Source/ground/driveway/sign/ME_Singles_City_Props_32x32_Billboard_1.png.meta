@@ -1,0 +1,172 @@
+fileFormatVersion: 2
+guid: e299df8fc344a7b4da63b225c98a8548
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ME_Singles_City_Props_32x32_Billboard_1_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f4914db8baf51c48b232ae1ea12dc24
+      internalID: 440472804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      ME_Singles_City_Props_32x32_Billboard_1_0: -1658727152
+      ME_Singles_City_Props_32x32_Billboard_1_1: -1402359731
+      ME_Singles_City_Props_32x32_Billboard_1_10: -161165891
+      ME_Singles_City_Props_32x32_Billboard_1_11: 223150955
+      ME_Singles_City_Props_32x32_Billboard_1_12: -726874629
+      ME_Singles_City_Props_32x32_Billboard_1_13: 1254058702
+      ME_Singles_City_Props_32x32_Billboard_1_14: -250016340
+      ME_Singles_City_Props_32x32_Billboard_1_15: 440472804
+      ME_Singles_City_Props_32x32_Billboard_1_16: 944349146
+      ME_Singles_City_Props_32x32_Billboard_1_17: -917146406
+      ME_Singles_City_Props_32x32_Billboard_1_18: -1147682852
+      ME_Singles_City_Props_32x32_Billboard_1_19: -1410381089
+      ME_Singles_City_Props_32x32_Billboard_1_2: 1535659499
+      ME_Singles_City_Props_32x32_Billboard_1_20: 1664554369
+      ME_Singles_City_Props_32x32_Billboard_1_21: -876081431
+      ME_Singles_City_Props_32x32_Billboard_1_22: -1858535662
+      ME_Singles_City_Props_32x32_Billboard_1_23: 353775456
+      ME_Singles_City_Props_32x32_Billboard_1_3: 620239183
+      ME_Singles_City_Props_32x32_Billboard_1_4: -1979838879
+      ME_Singles_City_Props_32x32_Billboard_1_5: -917936760
+      ME_Singles_City_Props_32x32_Billboard_1_6: 1854493767
+      ME_Singles_City_Props_32x32_Billboard_1_7: 857248193
+      ME_Singles_City_Props_32x32_Billboard_1_8: -994817369
+      ME_Singles_City_Props_32x32_Billboard_1_9: -759121959
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

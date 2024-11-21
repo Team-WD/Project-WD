@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6358413e10cbe7245a2ad4613c6f5319, type: 3}
+  m_Name: Weapon_1003
+  m_EditorClassIdentifier: 
+  Id: 1003
+  Name: shotgun
+  Ammo: 12
+  Damage: 40
+  CriticalRate: 0.05
+  CriticalDamage: 1.5
+  FireRate: 200
+  ReloadSpeed: 2
+  PenetratingPower: 2
+  Range: 5
+  Spread: 15
+  Tier: 1

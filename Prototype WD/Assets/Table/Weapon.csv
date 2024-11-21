@@ -1,0 +1,9 @@
+id,name,ammo,damage,criticalRate,criticalDamage,fireRate,reloadSpeed,penetratingPower,range,spread,tier
+1001,assult rifle,30,36,0.05,1.5,600,0.8,0,100,5,1
+1002,sniper rifle,20,60,0.05,1.5,500,1.2,2,100,0,1
+1003,shotgun,11,10,0.05,1.5,44,3.5,0,100,15,1
+1004,machine gun,100,25,0.03,1.2,750,3.5,0,100,10,1
+1005,pistol,20,30,0.05,1.5,400,0.5,0,100,3,1
+1006,flamethrower,1000,10,0.05,1.5,10000,5,0,100,0,1
+1007,throwing knife,1,999,0.05,1.5,200,0,0,100,0,1
+1008,granade,1,10,0.05,1.5,30,2,0,100,0,1

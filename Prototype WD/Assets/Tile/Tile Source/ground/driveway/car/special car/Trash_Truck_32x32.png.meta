@@ -1,0 +1,258 @@
+fileFormatVersion: 2
+guid: d71cb95948f42c9478a76f82b549ab25
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Trash_Truck_32x32_0
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 222
+        width: 236
+        height: 155
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f4f34d36b9b52a479d9111e2c8e6d92
+      internalID: 232249329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trash_Truck_32x32_1
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 231
+        width: 89
+        height: 239
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad807d98b61063241a10c7528c6d194f
+      internalID: -1683500036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trash_Truck_32x32_2
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 222
+        width: 235
+        height: 155
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 295f4191a3b1fd643978ae5f3bffc9e2
+      internalID: 1092808084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trash_Truck_32x32_3
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 231
+        width: 91
+        height: 243
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b6031de58815084295afeef4f9520ed
+      internalID: -404858893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Trash_Truck_32x32_0: 232249329
+      Trash_Truck_32x32_1: -1683500036
+      Trash_Truck_32x32_10: 513783206
+      Trash_Truck_32x32_11: -106057578
+      Trash_Truck_32x32_12: 889801529
+      Trash_Truck_32x32_13: -44459251
+      Trash_Truck_32x32_14: -140253429
+      Trash_Truck_32x32_15: 1548091889
+      Trash_Truck_32x32_16: -1108759436
+      Trash_Truck_32x32_17: 1200788622
+      Trash_Truck_32x32_18: -1950959625
+      Trash_Truck_32x32_19: -861325600
+      Trash_Truck_32x32_2: 1092808084
+      Trash_Truck_32x32_20: 441351534
+      Trash_Truck_32x32_21: -1092156729
+      Trash_Truck_32x32_22: 1991439213
+      Trash_Truck_32x32_23: -505156982
+      Trash_Truck_32x32_24: -2137778391
+      Trash_Truck_32x32_25: 2069185484
+      Trash_Truck_32x32_26: -262867535
+      Trash_Truck_32x32_27: -326511436
+      Trash_Truck_32x32_28: 607401291
+      Trash_Truck_32x32_29: 599198617
+      Trash_Truck_32x32_3: -404858893
+      Trash_Truck_32x32_30: 2000095087
+      Trash_Truck_32x32_31: 1125541654
+      Trash_Truck_32x32_32: -402878815
+      Trash_Truck_32x32_33: 2036129022
+      Trash_Truck_32x32_34: 921660695
+      Trash_Truck_32x32_35: 1194127144
+      Trash_Truck_32x32_36: -1890419045
+      Trash_Truck_32x32_37: 272159981
+      Trash_Truck_32x32_38: -1064188931
+      Trash_Truck_32x32_39: 1169997256
+      Trash_Truck_32x32_4: -775434818
+      Trash_Truck_32x32_40: 1415067438
+      Trash_Truck_32x32_41: -1496879301
+      Trash_Truck_32x32_42: 672952460
+      Trash_Truck_32x32_43: -1251536941
+      Trash_Truck_32x32_44: 1530155268
+      Trash_Truck_32x32_45: -1960846103
+      Trash_Truck_32x32_46: 1599020079
+      Trash_Truck_32x32_5: 1270637897
+      Trash_Truck_32x32_6: 1695420054
+      Trash_Truck_32x32_7: -758621645
+      Trash_Truck_32x32_8: -2108428459
+      Trash_Truck_32x32_9: -162921434
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

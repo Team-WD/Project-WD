@@ -1,0 +1,5 @@
+id,name,level,exp,maxHp,heal,armor,speed
+1,soldier,1,0,100,1,5,10
+2,engineer,1,0,100,1,5,10
+3,nurse,1,0,100,1,5,10
+4,baseballplayer,1,0,100,1,5,10

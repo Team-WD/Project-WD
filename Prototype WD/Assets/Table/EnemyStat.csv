@@ -1,0 +1,2 @@
+id,name,maxHp,heal,damage,armor,speed,isRanged,attackSpeed,attackRange,expDrop
+1001,normal_zombie,10,0,1,1,0.7,FALSE,0,1,1

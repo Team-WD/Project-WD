@@ -1,0 +1,8 @@
+id, iconPath, upgradeDescription, flavorText, type, value
+1,UpgradeData/Icons/DamageUp,공격력이 10%상승합니다.,국가의 힘은 방어가 아니라 공격에 있다. - Adolf hitler,D,0.1
+2,UpgradeData/Icons/ArmorUp,방어력이 5상승합니다.,뚱뚱해진 게 아니라 피하장갑이 두터워진 것이다.,A,5
+3,UpgradeData/Icons/HealthUp,최대체력이 5상승합니다.,체력은 국력,H,5
+4,UpgradeData/Icons/MoveSpeedUp,이동속도가 10%상승합니다.,하지만 빨랐죠 - 스티브 로저스,S,0.1
+5,UpgradeData/Icons/AmmoUp,탄창수가 10%상승합니다.,탄피는 조상님이 주워주냐? - 실망한 중대장,MA,0.1
+6,UpgradeData/Icons/CriticalRateUp,치명타 확률이 5%상승합니다.,총알이 영 좋지 않은 곳에 맞았어요. - 백병원 의사양반,CR,0.05
+7,UpgradeData/Icons/CriticalDamageUp,치명타 대미지가 20%상승합니다.,뼛속까지 아프다.,CD,0.2
